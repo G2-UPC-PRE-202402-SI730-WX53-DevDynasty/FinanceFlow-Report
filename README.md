@@ -1795,14 +1795,10 @@ Container diagram:
 ![Container Diagram](assets/img/chapter-4/containerdiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams  
-Restaurant diagram:
 
-![Tracking component](assets/img/chapter-4/restaurantdiagram.png)
+Booking diagram:
 
-
-User diagram:
-
-![Sales component](assets/img/chapter-4/userdiagram.png)
+![Sales component](assets/img/chapter-4/bookingdiagram.jpg)
 
 
 Payment diagram:
@@ -1813,6 +1809,10 @@ Payment diagram:
 Authentication diagram:
 
 ![Authentication component](assets/img/chapter-4/authdiagram.png)
+
+Comunication diagram:
+
+![Comunication Component](assets/img/chapter-4/Communicationdiagram.jpg)
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
 Class diagram:
@@ -2352,7 +2352,7 @@ Code frecuency:
 
 ### 5.2.2. Sprint 3
 
-![Sprint Verduritas 3](assets/img/chapter-5/img-sprint-verduritas-3.png)
+![Sprint Verduritas 3](assets/img/chapter-5/img-sprint-devdynasty-3.png)
 
 #### 5.2.2.1. Sprint Planning 3
 
