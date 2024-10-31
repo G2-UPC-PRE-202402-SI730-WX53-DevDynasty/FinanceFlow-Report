@@ -3021,10 +3021,7 @@ se corresponden con las expectativas del cliente.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint 3
 
-El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar,
-actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión
-antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra
-el network graph y code frecuency mediante la plataforma GitHub:
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y code frecuency mediante la plataforma GitHub:
 
 Network graph:
 
@@ -3053,11 +3050,7 @@ Entrevista #01:Jonathan Berrocal (22 años - Villa Maria del Triunfo ) - 30 de o
 [GastroGo - Validation Interviews 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (
 Comienzo 0:00 - Fin 08:50)
 
-Jonathan Berrocal, como trabajador del segmento objetivo, comentó que la pantalla de inicio de sesión le pareció
-agradable en general, pero observó que los botones eran un poco grandes y que el diseño podría beneficiarse de más
-elementos visuales, como imágenes en la sección de slide. También recomendó ajustar el tamaño de los cuadros de texto en
-la pantalla de pago, ya que algunos se veían demasiado largos, y centrar ciertos elementos de la interfaz que estaban
-desalineados.
+Jonathan Berrocal, como trabajador del segmento objetivo, comentó que la pantalla de inicio de sesión le pareció agradable en general, pero observó que los botones eran un poco grandes y que el diseño podría beneficiarse de más elementos visuales, como imágenes en la sección de slide. También recomendó ajustar el tamaño de los cuadros de texto en la pantalla de pago, ya que algunos se veían demasiado largos, y centrar ciertos elementos de la interfaz que estaban desalineados.
 
 Entrevista #02: Daniel Vazquez (25 años - San Juan de Lurigancho) - 30 de octubre de 2024
 
@@ -3066,9 +3059,7 @@ Entrevista #02: Daniel Vazquez (25 años - San Juan de Lurigancho) - 30 de octub
 [GastroGo - Validation Interviews 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=5iC0Yj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTMxLjI0fX0%3D) (
 Comienzo 08:50 - Fin 16:48)
 
-Daniel Vázquez encontró que la interfaz de usuario de la aplicación era amigable y atractiva en términos de diseño. Al
-completar su información personal en la pantalla de registro, comentó que la disposición visual era adecuada y
-funcional. No tuvo observaciones importantes sobre esta parte, destacando que el proceso era claro y sencillo.
+Daniel Vázquez encontró que la interfaz de usuario de la aplicación era amigable y atractiva en términos de diseño. Al completar su información personal en la pantalla de registro, comentó que la disposición visual era adecuada y funcional. No tuvo observaciones importantes sobre esta parte, destacando que el proceso era claro y sencillo.
 
 Entrevista #03: Raul Sulca Ynoñan (29 años - Comas) - 30 de octubre de 2024
 
@@ -3077,11 +3068,7 @@ Entrevista #03: Raul Sulca Ynoñan (29 años - Comas) - 30 de octubre de 2024
 [GastroGo - Validation Interviews 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=rMDZXU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTAwOS43OX19) (
 Comienzo 16:48 - Fin 28:40)
 
-El tercer entrevistado, como trabajador del segmento objetivo, no planteó críticas directas, pero mencionó algunas áreas
-de mejora. Comentó que la funcionalidad de votación en grupo, aunque útil, podría beneficiarse de una interfaz más
-visualmente atractiva y clara, para hacerla más fácil de usar. También sugirió que la calificación de los restaurantes
-podría ser más detallada, permitiendo evaluar aspectos específicos como la comida, el servicio y la entrega, lo cual
-ayudaría a mejorar la precisión de las evaluaciones.
+El tercer entrevistado, como trabajador del segmento objetivo, no planteó críticas directas, pero mencionó algunas áreas de mejora. Comentó que la funcionalidad de votación en grupo, aunque útil, podría beneficiarse de una interfaz más visualmente atractiva y clara, para hacerla más fácil de usar. También sugirió que la calificación de los restaurantes podría ser más detallada, permitiendo evaluar aspectos específicos como la comida, el servicio y la entrega, lo cual ayudaría a mejorar la precisión de las evaluaciones.
 
 Segmento de trabajadores:
 
@@ -3092,12 +3079,7 @@ Entrevista #04: Luis Miguel Rojas Piñero (20 años - Miraflores) - 30 de octubr
 [GastroGo - Validation Interviews 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=IxiwjP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTk0My4zN319) (
 Comienzo 28:41 - Fin 36:41)
 
-Luis Miguel resaltó que la página principal de GastroGo le parece visualmente atractiva y bien organizada. Sin embargo,
-sugirió que las imágenes de comida podrían confundir al usuario sobre el propósito de la aplicación, haciéndola parecer
-una app de recetas en lugar de una herramienta para restaurantes. Además, considera positiva la función de órdenes
-recientes, ya que permite consultar pedidos anteriores, lo cual ayudaría a evitar problemas comunes de confusión en la
-cocina. También valoró la organización del menú según días y horarios, destacando que facilitaría la atención al cliente
-al evitar malentendidos en horarios de ofertas.
+Luis Miguel resaltó que la página principal de GastroGo le parece visualmente atractiva y bien organizada. Sin embargo, sugirió que las imágenes de comida podrían confundir al usuario sobre el propósito de la aplicación, haciéndola parecer una app de recetas en lugar de una herramienta para restaurantes. Además, considera positiva la función de órdenes recientes, ya que permite consultar pedidos anteriores, lo cual ayudaría a evitar problemas comunes de confusión en la cocina. También valoró la organización del menú según días y horarios, destacando que facilitaría la atención al cliente al evitar malentendidos en horarios de ofertas.
 
 Entrevista #05: Jose Rolando Unzueta Luza( 24 años - Santiago de Surco ) - 30 de octubre de 2024
 
@@ -3106,11 +3088,7 @@ Entrevista #05: Jose Rolando Unzueta Luza( 24 años - Santiago de Surco ) - 30 d
 [GastroGo - Validation Interviews 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=FXlSdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjIwMS42NH19) (
 Comienzo 36:41 - Fin 40:22)
 
-José observó que los botones en GastroGo deberían destacarse más visualmente, ya que algunos no son claramente
-distinguibles como tales debido a su color o falta de bordes. También mencionó que le gustaría ver una barra lateral más
-visible y un mejor espaciado entre los elementos para mejorar la legibilidad. En cuanto a la sección de perfil y métodos
-de pago, propuso que los botones y textos sean más claros y visibles. En general, José expresó que algunos problemas de
-espaciado y de botones podrían deberse a la resolución de su pantalla.
+José observó que los botones en GastroGo deberían destacarse más visualmente, ya que algunos no son claramente distinguibles como tales debido a su color o falta de bordes. También mencionó que le gustaría ver una barra lateral más visible y un mejor espaciado entre los elementos para mejorar la legibilidad. En cuanto a la sección de perfil y métodos de pago, propuso que los botones y textos sean más claros y visibles. En general, José expresó que algunos problemas de espaciado y de botones podrían deberse a la resolución de su pantalla.
 
 Entrevista #06: Celso Mauricio Tamariz Salvador( 20 años Chorrillos) - 30 de octubre de 2024
 
@@ -3119,11 +3097,51 @@ Entrevista #06: Celso Mauricio Tamariz Salvador( 20 años Chorrillos) - 30 de oc
 [GastroGo - Validation Interviews 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=4fXJKJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQyMy42OX19) (
 Comienzo 40:23 - Fin 44:10)
 
-Celso destacó como positivo el apartado de actividades en grupo, ya que asignar un único responsable para hacer el
-pedido ayuda a mantener el orden. Valoró también la opción de actualizar el estado del menú en tiempo real. Sugirió
-mejorar la comunicación entre GastroGo y los restaurantes, especialmente en casos donde las órdenes puedan ser
-modificadas por demanda presencial. Finalmente, reconoció la organización y seguridad de la aplicación al permitir
-verificar el estado de los pedidos y recibir notificaciones.
+Celso destacó como positivo el apartado de actividades en grupo, ya que asignar un único responsable para hacer el pedido ayuda a mantener el orden. Valoró también la opción de actualizar el estado del menú en tiempo real. Sugirió mejorar la comunicación entre GastroGo y los restaurantes, especialmente en casos donde las órdenes puedan ser modificadas por demanda presencial. Finalmente, reconoció la organización y seguridad de la aplicación al permitir verificar el estado de los pedidos y recibir notificaciones.
+
+#### 5.3.2 Evaluaciones según heurísticas
+
+En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+
+1. **Visibilidad del estado del sistema:**
+
+El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+
+2. **Relación entre el sistema y el mundo real:**
+
+El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+
+3. **Libertad y control por parte del usuario:**
+
+Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+
+4. **Consistencia y estándares:**
+
+La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+
+5. **Prevención de errores:**
+
+Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+
+6. **Reconocimiento antes que recuerdo:**
+
+Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+
+7. **Flexibilidad y eficiencia de uso:**
+
+La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+
+8. **Estética y diseño minimalista:**
+
+El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+
+9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+
+El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
+
+10. **Ayuda y documentación:**
+
+Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
 
 ### 5.4. Video About the Product
 
@@ -3146,16 +3164,9 @@ Screenshot del video:
 
 ### Conclusiones y recomendaciones
 
-El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del
-problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con
-la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del
-proyecto.
+El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
 
-La importancia de la comunicación y la colaboración entre los miembros del equipo fue uno de los aprendizajes más
-significativos. Además, las herramientas de colaboración tales cómo GitHub o Figma jugaron un papel crucial en la
-coordinación del trabajo, permitiendo una gestión eficiente del código y una visualización clara del diseño de la
-landing page. Aprendimos que el manejo de las herramientas mejoran la organización, planificación y eficiencia del
-trabajo en equipo.
+La importancia de la comunicación y la colaboración entre los miembros del equipo fue uno de los aprendizajes más significativos. Además, las herramientas de colaboración tales cómo GitHub o Figma jugaron un papel crucial en la coordinación del trabajo, permitiendo una gestión eficiente del código y una visualización clara del diseño de la landing page. Aprendimos que el manejo de las herramientas mejoran la organización, planificación y eficiencia del trabajo en equipo.
 
 ### Video About-the-Team
 
