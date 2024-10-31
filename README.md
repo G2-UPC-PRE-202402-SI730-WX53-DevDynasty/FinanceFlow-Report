@@ -3070,7 +3070,7 @@ Daniel Vázquez encontró que la interfaz de usuario de la aplicación era amiga
 completar su información personal en la pantalla de registro, comentó que la disposición visual era adecuada y
 funcional. No tuvo observaciones importantes sobre esta parte, destacando que el proceso era claro y sencillo.
 
-Entrevista #03: (años ) - 30 de octubre de 2024
+Entrevista #03: Raul Sulca Ynoñan (29 años - Comas) - 30 de octubre de 2024
 
 ![Validation 3](assets/img/chapter-5/img-validation-3.png)
 
@@ -3112,7 +3112,7 @@ visible y un mejor espaciado entre los elementos para mejorar la legibilidad. En
 de pago, propuso que los botones y textos sean más claros y visibles. En general, José expresó que algunos problemas de
 espaciado y de botones podrían deberse a la resolución de su pantalla.
 
-Entrevista #06: Celso Mauricio Tamariz Salvador( años ) - 30 de octubre de 2024
+Entrevista #06: Celso Mauricio Tamariz Salvador( 20 años Chorrillos) - 30 de octubre de 2024
 
 ![Validation 6](assets/img/chapter-5/img-validation-6.png)
 
