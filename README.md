@@ -3031,6 +3031,116 @@ Code frecuency:
 
 ![Code Frecuency Back](assets/img/chapter-5/img-code-back-frecuency.png)
 
+### 5.2.2. Sprint 4
+
+![Sprint Verduritas 4](assets/img/chapter-5/img-sprint-devdynasty-4.png)
+
+#### 5.2.2.1. Sprint Planning 4
+
+| **Sprint #**                     | Sprint 4                                                                   |
+|----------------------------------|----------------------------------------------------------------------------|
+| **Sprint Planning Date**         | 25/10/2024                                                                 |
+| **Time**                         | 22:00 PM                                                                   |
+| **Location**                     | Google Meet                                                                |
+| **Prepared By**                  | Camila Loli                                                                |
+| **Attendees**                    | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora, Francisco Hurtado       |
+| **Sprint Review Summary**        |  |
+| **Sprint Retrospective Summary** |                                                                            |
+| **Sprint Goal**                  |                                                                            |
+| **Sprint Velocity**              |                                                                            |
+| **Sum of Story Points**          |                                                                            |
+
+#### 5.2.2.2. Sprint Backlog 4
+
+| **User Story**                                            | **Work-item/Task**                                           | **Description**                                                                                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-----------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
+|                         |  |                                                                            | 5                      | Ricardo         | Done       |
+|                          |             |                                                                                                                                        | 4                      | Ricardo         | Done       |
+
+#### 5.2.2.3. Development Evidence for Sprint Review 4
+
+| **Repository**   | **Branch** | **Commit Id**                            | **Commit Message**                                                                                                                | **Committed on (Date)** |
+|------------------|------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| GastroGo-Backend | develop    |  |                                                                                                                    |               |
+| GastroGo-Backend | develop    |  |                                                                                                              |             |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 4
+
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository**  | **Branch** | **Commit Id**                            | **Commit Message**                     | **Committed on (Date)** |
+|-----------------|------------|------------------------------------------|----------------------------------------|-------------------------|
+| acceptance-test | develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5 | Initial commit                         | 12/09/2024              |
+| acceptnace-test | develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e | feat(readme): added description readme | 12/09/2024              |
+| acceptnace-test | develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5 | chore: added epic 1 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7 | chore: added epic 2 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c | chore: added epic 3 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d | chore: added epic 4 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7 | chore: added epic 5 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 5846374f45b976d826580c0855565212811be5e8 | chore: added epic 6 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | b41662bc5609e8d7bb84b24b99910ab621001c09 | chore: added epic 7 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283 | chore: added epic 8 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f | chore: added epic 9 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca | chore: added epic 10 acceptance test   | 12/09/2024              |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review 4
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que
+ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos
+diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y
+un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los
+visitantes.
+
+Enlace del Backend:
+
+![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpg)
+
+![Evidence 2 Back TF](assets/img/chapter-5/img-evidence-back-2-tf.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
+
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+Visual Studio 2022 (IDE de desarrollo): Usamos Visual Studio 2022 como nuestro entorno de desarrollo integrado para
+trabajar en el Backend.
+
+C# (Lenguaje de programación): Optamos por C# como el lenguaje de programación principal para el desarrollo del Backend.
+
+Vue (Framework): Optamos por Vue como el framework principal para el desarrollo del Frontend.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los
+cambios en el código.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 4
+
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo
+logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales
+para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que
+se corresponden con las expectativas del cliente.
+
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo
+  durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de
+  cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del
+  proyecto, asegurando un control adecuado de los cambios.
+- Azure: Utilizado para el despliegue del backend, permitió alojar la aplicación en un entorno de pruebas para
+  verificar su funcionamiento y realizar ajustes necesarios antes de la entrega final.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 4
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y code frecuency mediante la plataforma GitHub:
+
+Network graph:
+
+![Network Graph Back TF](assets/img/chapter-5/img-network-back-github-tf.png)
+
+Code frecuency:
+
+![Code Frecuency Back TF](assets/img/chapter-5/img-code-back-frecuency-tf.png)
+
 ### 5.3. Validation Interviews
 
 Luego de avanzar en el desarrollo de la landing page, la aplicación front-end y la API RESTful del producto GastroGo,
