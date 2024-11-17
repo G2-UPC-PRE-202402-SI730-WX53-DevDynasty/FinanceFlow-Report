@@ -42,6 +42,7 @@ Producto: GastroGo
 | 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V                                   |
 | 1.5     | 24/09/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Correcciones de capítulos anteriores, desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web. |
 | 2.0     | 31/10/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Mejora continua del segundo sprint , desarrollo del Sprint 3 y primer avance del Backend de la Aplicación Web.   |
+| 3.0 | 17/11/2024 | Barrutia Vaez, Ricardo Andree <br> Espinoza Inoñan, Fabiola Ximena <br> Gongora Sanchez, Marco Antonio <br> Hurtado Palomino, Francisco Juan <br> Loli Ramirez, Camila Cristina | Despliegue del Backend de la Aplicación Web, estableciendo la conexión con el Frontend para asegurar la comunicación entre ambos sistemas, y finalizar las ultimas user story del sprint. |
 
 ---  
 
@@ -191,6 +192,51 @@ Contribuciones del equipo
 **Imágen de los commits Camila:**
 
 ![Commits Camila TB2](assets/img/develop/img-commits-camila-tb2.png)
+
+TP:
+
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega
+correspondiente a los Capítulos I al V del Sprint 1, estos los insights de la organizacion de Github.
+
+Contribuciones del equipo
+
+![Contribuciones del equipo](assets/img/develop/img-contributors-team-tf.png)
+
+
+**Imágen de los commits Ricardo:**
+
+![Commits Ricardo](assets/img/develop/img-commits-ricardo.png)
+
+
+**Imágen de los commits Fabiola:**
+
+![Commits Fabiola](assets/img/develop/img-commits-fabiola.png)
+
+
+**Imágen de los commits Marco:**
+
+![Commits Marco](assets/img/develop/img-commits-marco.png)
+
+
+**Imágen de los commits Francisco:**
+
+![Commits Francisco](assets/img/develop/img-commits-francisco.png)
+
+
+**Imágen de los commits Camila:**
+
+![Commits Camila](assets/img/develop/img-commits-camila.png)
+
+TF:
+
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega
+correspondiente a los Capítulos I al V del Sprint 1, estos los insights de la organizacion de Github.
+
+Contribuciones del equipo
+
+![Contribuciones del equipo TF](assets/img/develop/img-contributors-team-tf.png)
+
+
 
 
 ---  
@@ -3119,7 +3165,6 @@ Enlace del Backend:
 
 ![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpg)
 
-![Evidence 2 Back TF](assets/img/chapter-5/img-evidence-back-2-tf.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
 
@@ -3333,7 +3378,7 @@ funcionalidades de la aplicación GastroGo.
 
 A continuación, se proporciona el enlace al video about the product:
 
-- Microsoft Stream: [GastroGo - About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eema4QTTlpJLiOaneoHE5-8BsS_6IlNcjwTCA3qQCvwlWw?e=NZhtkd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Microsoft Stream: [GastroGo - About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESZ_YHnIWghNtyPsl5S6mv0BOK2CkJ4zCWGwzSLmTqVAtw?e=Y5OzSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 
 - Youtube : [GastroGo - About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eema4QTTlpJLiOaneoHE5-8BsS_6IlNcjwTCA3qQCvwlWw?e=NZhtkd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -3416,9 +3461,9 @@ Videos de Exposiciones:
 
 - Needfinding: [**upc-pre-202401-si730-wx53-DevDynasty-needfinding-sprint-1.mp4**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 
-- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfKUqguZzNhPisYhpasFouEBat8tcb10YFw-J8BewfoyLQ?e=969XQu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [GastroGo - About the Team] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfKUqguZzNhPisYhpasFouEBat8tcb10YFw-J8BewfoyLQ?e=969XQu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eema4QTTlpJLiOaneoHE5-8BsS_6IlNcjwTCA3qQCvwlWw?e=NZhtkd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESZ_YHnIWghNtyPsl5S6mv0BOK2CkJ4zCWGwzSLmTqVAtw?e=Y5OzSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D )
 
 - [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 
