@@ -3215,7 +3215,7 @@ Comienzo 28:41 - Fin 36:41)
 
 Luis Miguel resaltó que la página principal de GastroGo le parece visualmente atractiva y bien organizada. Sin embargo, sugirió que las imágenes de comida podrían confundir al usuario sobre el propósito de la aplicación, haciéndola parecer una app de recetas en lugar de una herramienta para restaurantes. Además, considera positiva la función de órdenes recientes, ya que permite consultar pedidos anteriores, lo cual ayudaría a evitar problemas comunes de confusión en la cocina. También valoró la organización del menú según días y horarios, destacando que facilitaría la atención al cliente al evitar malentendidos en horarios de ofertas.
 
-Entrevista #05: Jose Rolando Unzueta Luza( 24 años - Santiago de Surco ) - 30 de octubre de 2024
+Entrevista #05: Luis Miguel Rojas Piñero( 24 años - Santiago de Surco ) - 30 de octubre de 2024
 
 ![Validation 5](assets/img/chapter-5/img-validation-5.png)
 
@@ -3235,47 +3235,96 @@ Celso destacó como positivo el apartado de actividades en grupo, ya que asignar
 
 #### 5.3.2 Evaluaciones según heurísticas
 
-En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+### 5.3.3. Evaluaciones según heurísticas
 
-1. **Visibilidad del estado del sistema:**
+En esta sección se presenta el análisis realizado a la interfaz de la aplicación **GastroGo** utilizando principios heurísticos de usabilidad. Se destacan las áreas de mejora con el objetivo de optimizar la experiencia del usuario y aumentar la eficacia del producto.
 
-El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+<div style="align-items: center; text-align: center">
+<h3>UX Heuristics & Principles Evaluation<p>Usability – Inclusive Design – Information Architecture<h3>
+</div>
 
-2. **Relación entre el sistema y el mundo real:**
+#### Carrera: Ingeniería de Software
+#### Curso: Aplicaciones Web
+#### Sección: WX55
+#### Auditor: DevDynasty
+#### Clientes: Jonathan Berrocal,Daniel Vazquez, Raul Sulca Ynoñan, Luis Miguel Rojas Piñero, Luis Miguel Rojas Piñero, Celso Mauricio Tamariz Salvador
 
-El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+### Aplicación a Evaluar: GastroGo
 
-3. **Libertad y control por parte del usuario:**
+### Tareas a Evaluar:
 
-Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+### Escala de Severidad:
 
-4. **Consistencia y estándares:**
+##### Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+| Nivel | Descripción                                                                                                                                                                                                 |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara a resolverlo en el siguiente release.          |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.                                                  |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                            |
 
-5. **Prevención de errores:**
+### Tabla Resumen:
 
-Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+| #  | Problema                                                                                                                            | Escala de Severidad | Heurística/Principio violada(o)                        |
+|----|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------|
+| 1  | Algunas fuentes de letras son muy pequeñas.                                                                                         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2  | La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.                                                          | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 3  | No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.                        | 2                   | Usability: Libertad y control del usuario              |
+| 4  | No se indica en el menú la opción que se ha seleccionado.                                                                           | 1                   | Inclusive Design: Visibilidad del estado del sistema.  |
+| 5  | La ruta de la opción “Home” lleva a una página en blanco.                                                                           | 4                   | Information Architecture: Is it usable?.               |
+| 6  | No hay un botón en la landing page para regresar al inicio de la página.                                                            | 2                   | Usabilidad: Libertad y control del usuario.            |
+| 7  | Cambiar el tamaño de la letra en la ruta dirigida para el sign in o el sign up.                                                     | 2                   | Usabilidad: Consistencia y estándares.                 |
+| 8  | Al entrar a la interfaz, en la parte de “home”, poner una descripción para qué se usa la aplicación o para qué sirve cada segmento. | 4                   | Usabilidad: Reconocimiento en vez de recuerdo.         |
 
-6. **Reconocimiento antes que recuerdo:**
+### Descripción de Problemas:
 
-Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+- **Problema #1**: Algunas fuentes de letras son muy pequeñas.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Inclusive Design: Proporciona experiencias comparables
+    - **Problema**: En varias pantallas de la aplicación, el tamaño de las letras es demasiado pequeño. Esto puede dificultar la lectura de la información para algunos usuarios.
+    - **Recomendación**: Aumentar el tamaño de las letras para facilitar su lectura.
 
-7. **Flexibilidad y eficiencia de uso:**
+- **Problema #2**: La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.
+    - **Severidad**: 3
+    - **Heurística/Principio violada(o)**: Inclusive Design: Proporciona experiencias comparables
+    - **Problema**: Al agregar un nuevo trabajador, la interfaz no es responsive, lo que dificulta su uso en pantallas más pequeñas.
+    - **Recomendación**: Hacer que la interfaz sea responsive para que se adapte a diferentes tamaños de pantalla.
 
-La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+- **Problema #3**: No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usability: Libertad y control del usuario
+    - **Problema**: Falta un botón de retroceso, lo que limita la navegación del usuario.
+    - **Recomendación**: Agregar un botón para volver a la página anterior.
 
-8. **Estética y diseño minimalista:**
+- **Problema #4**: No se indica en el menú la opción que se ha seleccionado.
+    - **Severidad**: 1
+    - **Heurística/Principio violada(o)**: Inclusive Design: Visibilidad del estado del sistema.
+    - **Problema**: No se resalta la opción seleccionada en el menú, lo que puede confundir al usuario.
+    - **Recomendación**: Resaltar la opción activa en el menú.
 
-El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+- **Problema #5**: Cambiar el tamaño de la letra en la ruta dirigida para el sign in o el sign up.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usabilidad: Consistencia y estándares.
+    - **Problema**: Inconsistencias en el tamaño de la letra entre diferentes páginas.
+    - **Recomendación**: Mantener un tamaño de letra consistente.
 
-9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+- **Problema #6**: Al entrar a la interfaz, en la parte de “home”, poner una descripción para qué se usa la aplicación o para qué sirve cada segmento.
+    - **Severidad**: 4
+    - **Heurística/Principio violada(o)**: Usabilidad: Reconocimiento en vez de recuerdo.
+    - **Problema**: Falta de descripción clara en la página principal.
+    - **Recomendación**: Incluir descripciones breves de los segmentos y su función en la aplicación.
+- **Problema #7**: Falta de retroalimentación visual al completar una acción (por ejemplo, agregar un pedido).
+    - **Severidad**: 3
+    - **Heurística/Principio violada(o)**: Usabilidad: Visibilidad del estado del sistema.
+    - **Problema**: Los usuarios no reciben una confirmación visual inmediata después de realizar una acción importante, lo que puede generar incertidumbre sobre si la acción fue exitosa.
+    - **Recomendación**: Incluir mensajes de éxito o animaciones breves que indiquen claramente cuando una acción ha sido completada con éxito.
 
-El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
-
-10. **Ayuda y documentación:**
-
-Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
+- **Problema #8**: Los botones no tienen un estado hover claro.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usabilidad: Retroalimentación.
+    - **Problema**: Al pasar el cursor sobre los botones, no hay un cambio visual claro que indique que se puede interactuar con ellos.
+    - **Recomendación**: Añadir un cambio de color o sombra en los botones cuando se pase el cursor sobre ellos.
 
 ### 5.4. Video About the Product
 
