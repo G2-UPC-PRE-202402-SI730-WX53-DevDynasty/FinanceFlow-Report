@@ -3420,4 +3420,19 @@ Videos de Exposiciones:
 
 - [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eema4QTTlpJLiOaneoHE5-8BsS_6IlNcjwTCA3qQCvwlWw?e=NZhtkd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (
+- [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+  **Todos los enlaces:**
+
+-	Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+-	Report Repository: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+-	Acceptance Test: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test
+-	Landing Page Repositorio: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page
+-	Landing Page: https://g2-upc-pre-202402-si730-wx53-devdynasty.github.io/GastroGo-Landing-Page/
+-	Front End Repositorio: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-FrontEnd
+-	Front End: https://gastrogoupc.netlify.app
+-	Back End Repositorio: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-BackEnd
+-	TB1: upc-pre-202401-si730-wx53-devdynasty-expo-tb1.mp4: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+-	Web Applications Prototyping: upc-pre-202402-si730-wx53-devdynasty-prototype-gastrogo-navigation-sprint-1.mp4: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+-	Needfinding: upc-pre-202401-si730-wx53-DevDynasty-needfinding-sprint-1.mp4: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+-	GastroGo - Validation Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
