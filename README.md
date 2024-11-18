@@ -3404,7 +3404,6 @@ Screenshot del video:
 ### Conclusiones y recomendaciones
 
 
-Claro, aquí tienes una versión mejorada del texto, manteniendo el enfoque en destacar los logros del proyecto y los aprendizajes obtenidos:
 
 El proyecto ha alcanzado los objetivos planteados inicialmente, abordando la contextualización del problema y su solución, además del desarrollo y despliegue exitoso de la primera versión de la landing page, así como la implementación de funcionalidades clave para la web application y el backend. Cada miembro del equipo desempeñó un papel fundamental en las distintas fases del proyecto, contribuyendo al avance con sus respectivas habilidades.
 
