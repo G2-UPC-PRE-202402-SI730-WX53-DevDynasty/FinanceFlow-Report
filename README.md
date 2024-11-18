@@ -3178,7 +3178,7 @@ Enlace del Backend:
 ![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpg)
 
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 4
 
 Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
 
@@ -3290,9 +3290,8 @@ Comienzo 40:23 - Fin 44:10)
 
 Celso destacó como positivo el apartado de actividades en grupo, ya que asignar un único responsable para hacer el pedido ayuda a mantener el orden. Valoró también la opción de actualizar el estado del menú en tiempo real. Sugirió mejorar la comunicación entre GastroGo y los restaurantes, especialmente en casos donde las órdenes puedan ser modificadas por demanda presencial. Finalmente, reconoció la organización y seguridad de la aplicación al permitir verificar el estado de los pedidos y recibir notificaciones.
 
-#### 5.3.2 Evaluaciones según heurísticas
 
-### 5.3.3. Evaluaciones según heurísticas
+### 5.3.2. Evaluaciones según heurísticas
 
 En esta sección se presenta el análisis realizado a la interfaz de la aplicación **GastroGo** utilizando principios heurísticos de usabilidad. Se destacan las áreas de mejora con el objetivo de optimizar la experiencia del usuario y aumentar la eficacia del producto.
 
