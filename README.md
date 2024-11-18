@@ -3403,9 +3403,12 @@ Screenshot del video:
 
 ### Conclusiones y recomendaciones
 
-El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
 
-La importancia de la comunicación y la colaboración entre los miembros del equipo fue uno de los aprendizajes más significativos. Además, las herramientas de colaboración tales cómo GitHub o Figma jugaron un papel crucial en la coordinación del trabajo, permitiendo una gestión eficiente del código y una visualización clara del diseño de la landing page. Aprendimos que el manejo de las herramientas mejoran la organización, planificación y eficiencia del trabajo en equipo.
+Claro, aquí tienes una versión mejorada del texto, manteniendo el enfoque en destacar los logros del proyecto y los aprendizajes obtenidos:
+
+El proyecto ha alcanzado los objetivos planteados inicialmente, abordando la contextualización del problema y su solución, además del desarrollo y despliegue exitoso de la primera versión de la landing page, así como la implementación de funcionalidades clave para la web application y el backend. Cada miembro del equipo desempeñó un papel fundamental en las distintas fases del proyecto, contribuyendo al avance con sus respectivas habilidades.
+
+Uno de los aprendizajes más significativos fue la importancia de la comunicación y la colaboración dentro del equipo. Las herramientas de colaboración, como GitHub para la gestión del código y Figma para la visualización del diseño, resultaron ser indispensables para la coordinación y eficiencia del trabajo. Estas herramientas no solo facilitaron la organización y planificación, sino que también mejoraron la productividad del equipo al permitir un flujo de trabajo ágil y transparente.
 
 ### Video About-the-Team
 
